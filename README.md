@@ -1,4 +1,4 @@
-# ContinuosMixinations
+# Continuos Mixinations
 
 **TODO: Add description**
 
